@@ -5,7 +5,10 @@ date:   2021-07-04 20:32:27 +0200
 categories: jekyll update
 ---
 
-## Create a repo with github
+## Create a repo with Github
+
+1. Log in or sign up into Github
+2. Create a new repo "username.github.io"
 
 ## Installing Ruby, RubyGem and Jekyll
 
@@ -20,7 +23,7 @@ ruby setup.rb
 gem install bundler jekyll
 {% endhighlight %}
 
-## Create site, push and voilà !
+## Create site, push and voilà
 
 {% highlight bash %}
 jekyll new my-awesome-site
